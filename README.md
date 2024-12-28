@@ -51,7 +51,8 @@ coffeeshop-website/
 2. Navigate through the different pages using the navigation bar.shot
 3. Explore the menu, view testimonials, browse the gallery, and contact the coffee shop using the form.
 
-##Screen
+##Screenshot
+![image alt](https://github.com/Husainiya/CoffeeShop-Website/tree/6709b8800f23440e5bfe297190a3adc508d6ca1d/Screenshot)
 
 
 For feedback, feel free to contact me at: **hsynyhsn1122@gmial.com**
